@@ -1,2 +1,3 @@
-# Resume
-https://dinovukelic.github.io/Resume/#about
+# Resume hosted on github
+https://dinovukelic.github.io/Resume/
+
